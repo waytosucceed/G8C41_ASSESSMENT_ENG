@@ -1,0 +1,640 @@
+{
+  "heading": "Select a Topic",
+  "topics": [
+    {
+      "heading": "Types of Sentences",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Identify the sentence type: 'Whether you like it or not, you will have to attend the meeting.'",
+          "options": [
+            "Simple",
+            "Compound",
+            "Complex",
+            "Compound-complex"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "This sentence contains one independent clause ('you will have to attend the meeting') and one dependent clause ('Whether you like it or not'). Since the sentence has one independent and one dependent clause, it is classified as a complex sentence."
+        },
+        {
+          "questionNo": 2,
+          "question": "Which of the following is a compound-complex sentence? ",
+          "options": [
+            "Since I had finished my homework, I went to bed early, but I couldn’t fall asleep.",
+            "She enjoys cooking, and she often prepares elaborate meals for her family.",
+            "I will attend the meeting if it starts on time.",
+            "Despite his injury, he played the match."
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "A compound-complex sentence has at least two independent clauses and one or more dependent clauses. The independent clauses are 'I went to bed early' and 'I couldn’t fall asleep,' while the dependent clause is 'Since I had finished my homework.'"
+        },
+        {
+          "questionNo": 3,
+          "question": "Identify the type of sentence:<br>  'Not only did she complete the project, but she also submitted it ahead of the deadline.'",
+          "options": [
+            "Simple",
+            "Compound",
+            "Complex",
+            "Compound-complex"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "A compound sentence consists of two or more independent clauses joined by a coordinating or correlative conjunction (like 'not only... but also'). Here, the sentence has two independent clauses: 'she completed the project' and 'she submitted it ahead of the deadline.'"
+        },
+        {
+          "questionNo": 4,
+          "question": "Identify the type of sentence structure:<br>  'While I was waiting for the bus, it started raining heavily, so I had to take shelter under a nearby tree.'",
+          "options": [
+            "Simple",
+            "Compound",
+            "Complex",
+            "Compound-complex"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "A compound-complex sentence contains at least two independent clauses and one or more dependent clauses. 'It started raining heavily' and 'I had to take shelter under a nearby tree' are independent clauses, while 'While I was waiting for the bus' is a dependent clause."
+        }
+      ]
+    },
+    {
+      "heading": "Types of Subjects and Predicates",
+      "questions": [
+        {
+          "questionNo": 5,
+          "question": "Identify the compound subject in the following sentence:  <br> 'Both the teacher and the students were excited about the science fair.'",
+          "options": [
+            "The teacher and the students",
+            "The teacher",
+            "Both the teacher and the students",
+            "The science fair"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "A compound subject contains two or more subjects connected by a coordinating conjunction. In this case, the two subjects are 'the teacher' and 'the students,' joined by 'and.'"
+        },
+        {
+          "questionNo": 6,
+          "question": "What is the complete predicate in the following sentence?<br>  'The team played a great match under the bright lights.'",
+          "options": [
+            "Played a great match under the bright lights",
+            "The team",
+            "Played",
+            "Under the bright lights"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "The complete predicate includes the verb and all the words that give additional information about what the subject is doing. 'Played a great match under the bright lights' is the complete predicate here."
+        },
+        {
+          "questionNo": 7,
+          "question": "Identify the compound subject in the following sentence:<br>  'Neither the manager nor the employees were happy with the decision.'",
+          "options": [
+            "The manager nor the employees",
+            "The manager and the employees",
+            "Neither the manager nor the employees",
+            "The decision"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "A compound subject is made up of two or more subjects joined by 'nor' in this sentence. 'The manager' and 'the employees' are the two subjects forming the compound subject."
+        }
+      ]
+    },
+    {
+      "heading": "Subject-Verb Agreement",
+      "questions": [
+        {
+          "questionNo": 8,
+          "question": "Which of the following sentences is grammatically correct?",
+          "options": [
+            "The jury has reached their verdict.",
+            "The jury have reached their verdict.",
+            "The jury has reached its verdict.",
+            "The jury have reached its verdict."
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "In this case, 'jury' is treated as a collective noun acting as a single unit, so it requires a singular verb ('has') and a singular pronoun ('its')."
+        },
+        {
+          "questionNo": 9,
+          "question": "Identify the correct sentence:",
+          "options": [
+            "The number of students in the class is increasing.",
+            "The number of students in the class are increasing.",
+            "A number of students in the class is increasing.",
+            "A number of students in the class are increasing."
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "'The number' is considered a singular subject, so it requires a singular verb ('is'). 'A number of' would take a plural verb, but 'The number' refers to a singular concept."
+        },
+        {
+          "questionNo": 10,
+          "question": "Which sentence is correct?",
+          "options": [
+            "Either the teacher or the students has to submit the report.",
+            "Either the teacher or the students have to submit the report.",
+            "Either the teacher or the students are to submit the report.",
+            "Either the teacher or the students has had to submit the report."
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "When subjects are joined by 'either...or,' the verb agrees with the subject closer to it. In this case, 'students' is plural, so the verb must also be plural ('have')."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which of the following sentences is correct?",
+          "options": [
+            "The pair of shoes are on the floor.",
+            "The pair of shoes is on the floor.",
+            "The pair of shoes were on the floor.",
+            "The pair of shoes have been on the floor."
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "'Pair' is a singular subject, even though it refers to two items (shoes), so it requires a singular verb ('is'). The focus is on the 'pair,' not the individual shoes."
+        },
+        {
+          "questionNo": 12,
+          "question": "Identify the sentence with correct subject-verb agreement:",
+          "options": [
+            "The data from the experiments is inconclusive.",
+            "The data from the experiments are inconclusive.",
+            "The data from the experiments is being inconclusive.",
+            "The data from the experiments has been inconclusive."
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "'Data' is technically a plural noun (the singular is 'datum'). Therefore, it should take a plural verb, 'are.' Even though in common usage 'data' is sometimes treated as singular, it is correct to use the plural verb in formal contexts."
+        },
+        {
+          "questionNo": 13,
+          "question": "Which sentence demonstrates correct subject-verb agreement?",
+          "options": [
+            "The board, along with the CEO, have approved the proposal.",
+            "The board, along with the CEO, has approved the proposal.",
+            "The board, as well as the CEO, are approving the proposal.",
+            "The board, along with the CEO, were approving the proposal."
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "The subject of the sentence is 'the board,' which is singular, so it takes a singular verb, 'has.' Phrases like 'along with' or 'as well as' do not affect the number of the subject."
+        },
+        {
+          "questionNo": 14,
+          "question": "Identify the grammatically correct sentence:",
+          "options": [
+            "A majority of the voters is supporting the bill.",
+            "A majority of the voters are supporting the bill.",
+            "A majority of the voters has supported the bill.",
+            "A majority of the voters is supporting the bills."
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "'A majority of' takes a plural verb when it refers to a plural noun (in this case, 'voters'). Therefore, 'are' is the correct plural verb."
+        }
+      ]
+    },
+    {
+      "heading": "Tenses, Verb Forms, Regular and Irregular Verbs, Continuous and Non-Continuous Verbs",
+      "questions": [
+        {
+          "questionNo": 15,
+          "question": "Which of the following verbs is regular?",
+          "options": [
+            "Run",
+            "Speak",
+            "Play",
+            "Begin"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "Regular verbs form their past and past participle by adding '-ed' to the base form (e.g., 'play' → 'played'). 'Run,' 'speak,' and 'begin' are irregular verbs."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which sentence demonstrates correct verb form usage?",
+          "options": [
+            "She didn’t knew the answer to the question.",
+            "She didn’t know the answer to the question.",
+            "She didn’t knows the answer to the question.",
+            "She doesn’t knew the answer to the question."
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "In negative sentences with 'did,' the base form of the verb (know) is used, not the past form."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which sentence uses an irregular verb correctly?",
+          "options": [
+            "They had went to the store before I arrived.",
+            "They had gone to the store before I arrived.",
+            "They had go to the store before I arrived.",
+            "They had goed to the store before I arrived."
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "'Gone' is the past participle form of the irregular verb 'go.' In the past perfect tense, the correct verb form to use is 'had gone.'"
+        },
+        {
+          "questionNo": 18,
+          "question": "Which sentence is correct regarding continuous vs. non-continuous verbs?",
+          "options": [
+            "I am understanding your point of view.",
+            "I have been understanding your point of view for a while now.",
+            "I understand your point of view.",
+            "I was understanding your point of view when you explained it."
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "'Understand' is a non-continuous verb, meaning it refers to a state rather than an action, so it should not be used in continuous forms."
+        },
+        {
+          "questionNo": 19,
+          "question": "Which sentence correctly uses the continuous form of a verb?",
+          "options": [
+            "He is knowing the answer to the problem.",
+            "He is thinking about the solution.",
+            "He is believing in magic.",
+            "He is owning a car now."
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "'Thinking' is a continuous verb, as it describes an ongoing mental process."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which sentence demonstrates proper use of mixed verb tenses?",
+          "options": [
+            "I have studied French for five years, and next year I will be starting German.",
+            "I had studied French for five years, and next year I will have started German.",
+            "I studied French for five years, and next year I start German.",
+            "I have been studying French for five years, and next year I started German."
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "The present perfect tense ('have studied') is used to describe an action that started in the past and continues into the present."
+        }    
+      ]
+    },
+    {
+      "heading": "Tense - Simple",
+      "questions": [
+        {
+          "questionNo": 21,
+          "question": "Which sentence is in the simple present tense (affirmative)?",
+          "options": [
+            "She is going to the gym every morning.",
+            "She goes to the gym every morning.",
+            "She went to the gym every morning.",
+            "She will go to the gym every morning."
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "The simple present tense is used for habitual actions or general truths. 'Goes' is the correct form for third-person singular in the simple present. Option a) uses the present continuous tense. Option c) is in the simple past, and option d) is in the simple future."
+        },
+        {
+          "questionNo": 22,
+          "question": "Which sentence is a correct interrogative-negative in the simple past tense?",
+          "options": [
+            "Didn’t they went to the park yesterday?",
+            "Didn’t they go to the park yesterday?",
+            "Didn’t they going to the park yesterday?",
+            "Didn’t they goes to the park yesterday?"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "In interrogative-negative sentences in the simple past tense, 'Didn’t' is followed by the base form of the verb ('go'). Option a) incorrectly uses the past form 'went.' Option c) uses the continuous form, which is incorrect, and option d) incorrectly uses 'goes.'"
+        },
+        {
+          "questionNo": 23,
+          "question": "Choose the correct simple future tense (negative) sentence:",
+          "options": [
+            "He will not going to the party tomorrow.",
+            "He won’t goes to the party tomorrow.",
+            "He will not go to the party tomorrow.",
+            "He is not going to the party tomorrow."
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "In the negative form of the simple future tense, 'will not' (or 'won’t') is followed by the base form of the verb ('go'). Option a) incorrectly uses the continuous form. Option b) uses the incorrect form 'goes,' and option d) is a near-future construction."
+        }
+      ]
+    },
+    {
+      "heading": "Tense - Continuous",
+      "questions": [
+        {
+          "questionNo": 24,
+          "question": "Identify the correct sentence in the future continuous tense (negative):",
+          "options": [
+            "She will not be attending the meeting tomorrow.",
+            "She doesn’t be attending the meeting tomorrow.",
+            "She will not attending the meeting tomorrow.",
+            "She will not attends the meeting tomorrow."
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "The negative form of the future continuous tense uses 'will not be' followed by the '-ing' form of the main verb ('attending'). Option b) is grammatically incorrect, Option c) omits 'be,' and Option d) incorrectly uses the present tense form."
+        },
+        {
+          "questionNo": 25,
+          "question": "Fill in the blank appropriately: <br>______(he / try) to solve the puzzle when you arrived?",
+          "options": [
+            "Was he tried",
+            "Was he trying",
+            "Is he trying",
+            "Were he trying"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "In past continuous interrogative sentences, the structure is: [Was/Were] + subject + verb (-ing form). The correct form is 'Was he trying?'"
+        },
+        {
+          "questionNo": 26,
+          "question": "Fill in the blank appropriately: <br> Why _____ (they / wait) outside for so long yesterday?",
+          "options": [
+            "Were they waiting",
+            "Was they waited",
+            "Are they waiting",
+            "Were they waited"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "In past continuous interrogative sentences, we use 'Were' for plural subjects like 'they.' The correct structure is 'Were they waiting?'"
+        },
+        {
+          "questionNo": 27,
+          "question": "Fill in the blank appropriately: <br> ______(they / travel) by train next month?",
+          "options": [
+            "Will they be traveled",
+            "Will they be traveling",
+            "Will they traveling",
+            "Will they are traveling"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "The correct form for a future continuous interrogative is [Will + subject + be + verb (-ing form)]. The correct answer is 'Will they be traveling?'"
+        }
+      ]
+    },
+    {
+      "heading": "Tense - Perfect",
+      "questions": [
+        {
+          "questionNo": 28,
+          "question": "Spot the error in the following sentence: <br>He had went to the store before it started raining.",
+          "options": [
+            "No error",
+            "Replace 'had went' with 'had gone'",
+            "Replace 'before' with 'after'",
+            "Replace 'started' with 'has started'"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "In past perfect affirmative sentences, the structure is: [Had + past participle of the verb]. The correct sentence should be 'He had gone to the store before it started raining.'"
+        },
+        {
+          "questionNo": 29,
+          "question": "Fill in the blank appropriately: <br>By this time tomorrow, she _____ (not / complete) the project.",
+          "options": [
+            "will not have completed",
+            "will not have completing",
+            "will not be completing",
+            "will not completed"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "In future perfect negative sentences, the structure is: [Will + not + have + past participle of the verb]. The correct sentence is 'she will not have completed the project.'"
+        },
+        {
+          "questionNo": 30,
+          "question": "Fill in the blank appropriately: <br>Why ______(she / not / tell) anyone about the incident before it became public?",
+          "options": [
+            "hadn't she told",
+            "hasn't she told",
+            "did she not tell",
+            "had she not telling"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "In past perfect interrogative sentences, the structure is: [Had + subject + not + past participle]. The correct question is 'Why hadn’t she told anyone?'"
+        },
+        {
+          "questionNo": 31,
+          "question": "Spot the error in the following sentence: <br>Will you have been completed the book by next Friday?",
+          "options": [
+            "No error",
+            "Replace 'have been completed' with 'have completed'",
+            "Replace 'will' with 'shall'",
+            "Replace 'next Friday' with 'last Friday'"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "In future perfect interrogative sentences, the structure is: [Will + subject + have + past participle]. The correct sentence is 'Will you have completed the book by next Friday?'"
+        }
+      ]
+    },
+    {
+      "heading": "Tense - Perfect Continuous",
+      "questions": [
+        {
+          "questionNo": 32,
+          "question": "Why _____ been studying for the exam before it was postponed?",
+          "options": [
+            "hadn't you",
+            "hadn't you had",
+            "had you not",
+            "hadn't you been"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "In the past perfect continuous tense, the interrogative-negative form is 'Hadn't + subject + been + present participle.' The correct sentence is: 'Why hadn't you been studying for the exam before it was postponed?'"
+        },
+        {
+          "questionNo": 33,
+          "question": "Fill in the blank appropriately: <br>By this time next year, he _____ in the company for a decade.",
+          "options": [
+            "will be working",
+            "will have worked",
+            "will have been working",
+            "will work"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "The future perfect continuous tense is used to express that an action will have been in progress for a certain amount of time by a specific point in the future. The correct sentence is: 'By this time next year, he will have been working in the company for a decade.'"
+        },
+        {
+          "questionNo": 34,
+          "question": "Fill in the blank appropriately: <br>Before they arrived, we _____ for two hours.",
+          "options": [
+            "had been waiting",
+            "had waited",
+            "were waiting",
+            "have been waiting"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "The past perfect continuous tense is used to describe an action that was ongoing before another action in the past. The correct form is: 'Before they arrived, we had been waiting for two hours.'"
+        },
+        {
+          "questionNo": 35,
+          "question": "Which part of the sentence contains an error? <br>She has been worked on the project for three hours now.",
+          "options": [
+            "has been",
+            "worked",
+            "on the project",
+            "for three hours"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "The verb form should be in the present participle (continuous form) when using the present perfect continuous tense. The correct sentence is: 'She has been working on the project for three hours now.'"
+        },
+        {
+          "questionNo": 36,
+          "question": "Fill in the blank appropriately: <br> Why _____ been running the company more effectively before the new management arrived?",
+          "options": [
+            "hadn't you",
+            "hadn't you been",
+            "have you not",
+            "had you not been"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "The past perfect continuous tense is used to ask about an ongoing action in the past before another past event. The correct interrogative-negative structure is: 'hadn’t you.'"
+        }
+      ]
+    },
+    {
+      "heading": "Active and Passive Voice",
+      "questions": [
+        {
+          "questionNo": 37,
+          "question": "Convert the following sentence into passive voice: <br>'The workers were repairing the bridge when the accident occurred.'",
+          "options": [
+            "The bridge was being repaired by the workers when the accident occurred.",
+            "The bridge was repaired by the workers when the accident occurred.",
+            "The bridge had been repaired by the workers when the accident occurred.",
+            "The bridge is being repaired by the workers when the accident occurred."
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "In the past continuous passive, the structure is Subject + was/were + being + past participle. The correct transformation is: 'The bridge was being repaired by the workers when the accident occurred.'"
+        },
+        {
+          "questionNo": 38,
+          "question": "Choose the correct passive transformation of the following sentence: <br>'The team had already solved the problem when the manager arrived.'",
+          "options": [
+            "The problem had already been solved by the team when the manager arrived.",
+            "The problem has already been solved by the team when the manager arrived.",
+            "The problem was solved by the team when the manager arrived.",
+            "The problem is already being solved by the team when the manager arrived."
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "In the past perfect passive, the structure is Subject + had + been + past participle. The correct form is 'had already been solved.'"
+        },
+        {
+          "questionNo": 39,
+          "question": "Choose the correct passive transformation for the following sentence: 'Someone found the documents scattered on the floor.'",
+          "options": [
+            "The documents had been found scattered on the floor.",
+            "The documents are found scattered on the floor.",
+            "The documents were found scattered on the floor.",
+            "The documents have been found scattered on the floor."
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "The simple past passive structure is Subject + was/were + past participle. The correct transformation is: 'The documents were found scattered on the floor.' Option (a) uses the past perfect tense, which is not required in this context."
+        },
+        {
+          "questionNo": 40,
+          "question": "Which of the following is the correct passive voice transformation of the sentence below? 'People believe the theory is controversial.'",
+          "options": [
+            "The theory has been believed to be controversial by people.",
+            "The theory is believed to be controversial.",
+            "The theory is being believed controversial by people.",
+            "The theory was believed to be controversial."
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "In the passive form of a simple present sentence, the structure is Subject + am/is/are + past participle. Additionally, when verbs like 'believe' are used, the passive structure can involve 'is believed.' The correct sentence is: 'The theory is believed to be controversial.'"
+        },
+        {
+          "questionNo": 41,
+          "question": "Convert the following sentence into passive voice: 'By the time the meeting ends, they will have made the decision.'",
+          "options": [
+            "The decision has been made by the time the meeting ends.",
+            "The decision will have been made by the time the meeting ends.",
+            "The decision will be made by the time the meeting ends.",
+            "The decision is made by the time the meeting ends."
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "In the future perfect passive, the structure is Subject + will + have + been + past participle. The correct sentence is: 'The decision will have been made by the time the meeting ends.'"
+        },
+        {
+          "questionNo": 42,
+          "question": "Which of the following is the correct passive form of this sentence? 'They will announce the results next week.'",
+          "options": [
+            "The results will be announced next week.",
+            "The results are being announced next week.",
+            "The results will have been announced next week.",
+            "The results will be announcing next week."
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "In the simple future passive, the structure is Subject + will + be + past participle. The correct passive form is: 'The results will be announced next week.'"
+        }
+      ]
+    },
+    {
+      "heading": "Miscellaneous Tenses",
+      "questions": [
+        {
+          "questionNo": 44,
+          "question": "Convert this to a past continuous interrogative sentence: <br>'She was not singing a song.'",
+          "options": [
+            "Was she singing a song?",
+            "Is she singing a song?",
+            "Did she sing a song?",
+            "Had she sung a song?"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "In the past continuous tense, the interrogative form is created by placing the auxiliary verb 'was' or 'were' before the subject, followed by the main verb in the '-ing' form. The correct form here is 'Was she singing a song?' Options B, C, and D use incorrect tenses or structures: B is present continuous, C is simple past, and D is past perfect, none of which match the original tense requirement."
+        },
+        {
+          "questionNo": 45,
+          "question": "Convert this to a past perfect interrogative sentence: <br>'Did they complete the assignment?'",
+          "options": [
+            "Were they completing the assignment?",
+            "Have they completed the assignment?",
+            "Had they completed the assignment?",
+            "Had they been completing the assignment?"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "To form a past perfect interrogative sentence, we use 'Had' followed by the subject and then the past participle of the main verb. Thus, 'Had they completed the assignment?' is the correct answer. Options A, B, and D are incorrect because they are in the past continuous, present perfect, and past perfect continuous forms, respectively, which do not match the required past perfect interrogative structure."
+        }
+      ]
+    },    
+    {
+      "heading": "Subjective",
+      "questions": [
+        {
+          "questionNo": 49,
+          "question": "Write a detailed paragraph (150-180 words) about someone who has had a significant impact on your life. <br>Include the following aspects: <br>1. Their name, age, and background.<br>2. Your connection to them and how your relationship evolved.<br>3. Their profession, skills, and daily responsibilities<br>4. Unique habits, talents, or interests that set them apart.<br>5. Key personality traits that influence their decisions and actions.<br>6. Examples of how they have influenced or inspired you.<br>7. How others perceive them in terms of leadership, reputation, and character."
+        }
+      ]
+    }
+    
+    
+    
+    
+  ]
+}

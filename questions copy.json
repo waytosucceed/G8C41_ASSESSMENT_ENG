@@ -1,0 +1,535 @@
+{
+  "heading": "Select a Topic",
+  "topics": [
+    {
+      "heading": "Adverbs",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Fill in the blank with the correct adverb: <br> The turtle moved _____.",
+          "options": [
+            "slow",
+            "slowly",
+            "slowed",
+            "slowing"
+          ],
+          "answer": 1,
+          "image": "./assests/images/question/1.gif",
+          "explanation": "\"Slowly\" is the correct adverb form. It describes how the turtle moved, telling us about the action."
+        },
+        {
+          "questionNo": 2,
+          "question": "Adverbs can describe verbs, adjectives, and other adverbs.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "Adverbs can tell us more about verbs (actions), adjectives (describing words), and even other adverbs."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which sentence uses an adverb correctly?",
+          "options": [
+            "The cat is very fluffy.",
+            "The cat is very fluffily.",
+            "The cat is fluffily very.",
+            "The very cat is fluffy."
+          ],
+          "answer": 0,
+          "image": "./assests/images/question/3.png",
+          "explanation": "\"Very\" is an adverb that describes the adjective \"fluffy.\" It tells us how fluffy the cat is."
+        },
+        {
+          "questionNo": 4,
+          "question": "Which word in the sentence is an adverb? <br> \"The boy ran quickly to school.\"",
+          "options": [
+            "boy",
+            "ran",
+            "quickly",
+            "school"
+          ],
+          "answer": 2,
+          "image": "./assests/images/question/4.png",
+          "explanation": "\"Quickly\" is an adverb because it tells us how the boy ran. It describes the action (verb) in the sentence."
+        },
+        {
+          "questionNo": 5,
+          "question": "Choose the correct adverb to complete the sentence: <br> The sun shines _____ in summer.",
+          "options": [
+            "bright",
+            "brightly",
+            "brighten",
+            "brightness"
+          ],
+          "answer": 1,
+          "image": "./assests/images/question/5.png",
+          "explanation": "\"Brightly\" is the adverb form of \"bright.\" It tells us how the sun shines."
+        }
+      ]
+    },
+    {
+      "heading": "Types of Adverbs",
+      "questions": [
+        {
+          "questionNo": 6,
+          "question": "Which type of adverb is 'quickly' in the sentence : <br>'She quickly finished her homework'?",
+          "options": [
+            "Adverb of time",
+            "Adverb of place",
+            "Adverb of manner"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "\"Quickly\" tells us how she finished her homework. Adverbs of manner describe how an action is done."
+        },
+        {
+          "questionNo": 7,
+          "question": "Fill in the blank with an adverb of place:<br> The cat is sitting _____.",
+          "options": [
+            "here",
+            "now",
+            "quietly",
+            "very"
+          ],
+          "answer": 0,
+          "image": "./assests/images/question/7.png",
+          "explanation": "\"Here\" is an adverb of place. It tells us where the cat is sitting."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which sentence uses an adverb of time?",
+          "options": [
+            "The bird flew high in the sky.",
+            "She speaks softly.",
+            "We will go to the park tomorrow.",
+            "The dog barked loudly."
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "\"Tomorrow\" is an adverb of time. It tells us when we will go to the park."
+        },
+        {
+          "questionNo": 9,
+          "question": "\"Carefully\" is an adverb of manner.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "\"Carefully\" is indeed an adverb of manner. It describes how an action is done. For example: “He did his homework carefully.”"
+        },
+        {
+          "questionNo": 10,
+          "question": "Which type of adverb is 'upstairs' in the sentence:<br> 'The children are playing upstairs'?",
+          "options": [
+            "Adverb of time",
+            "Adverb of place",
+            "Adverb of manner"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "\"Upstairs\" tells us where the children are playing. It's an adverb of place."
+        }
+      ]
+    },
+    {
+      "heading": "Adjective vs. Adverb",
+      "questions": [
+        {
+          "questionNo": 11,
+          "question": "Fill in the blank with the correct word:<br> The dog is _____.",
+          "options": [
+            "happy",
+            "happily"
+          ],
+          "answer": 0,
+          "image": "./assests/images/question/11.png",
+          "explanation": "\"Happy\" is an adjective that describes the dog. We use adjectives to describe nouns (people, places, or things)."
+        },
+        {
+          "questionNo": 12,
+          "question": "In the sentence 'The quick brown fox jumps,'<br> quick is an adjective.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "image": "./assests/images/question/12.png",
+          "explanation": "\"Quick\" is an adjective that describes the fox (a noun)."
+        },
+        {
+          "questionNo": 13,
+          "question": "Fill in the blank with the correct form:<br> The turtle moves _____.",
+          "options": [
+            "slow",
+            "slowly"
+          ],
+          "answer": 1,
+          "image": "./assests/images/question/1.gif",
+          "explanation": "\"Slowly\" is an adverb that describes how the turtle moves. We use adverbs to describe verbs (actions)."
+        },
+        {
+          "questionNo": 14,
+          "question": "Identify the correct pair for this sentence:<br> \"The friendly waiter served the customers politely.\"",
+          "options": [
+            "Waiter: adverb",
+            "Customers: adjective",
+            "Politely: adverb",
+            "None of the above"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "\"Politely\" is an adverb that describes how the waiter served the customers (the verb), while \"friendly\" is an adjective that describes the noun \"waiter.\""
+        },
+        {
+          "questionNo": 15,
+          "question": "Adjectives always end in '-ly.'",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "While many adverbs end in '-ly,' adjectives do not have a specific ending."
+        }
+      ]
+    },
+    {
+      "heading": "Prefix and Suffix",
+      "questions": [
+        {
+          "questionNo": 16,
+          "question": "Fill in the blank with the correct prefix:<br> The weather forecast said it would rain, but it didn't. The forecast was ___correct.",
+          "options": [
+            "pre-",
+            "mis-",
+            "re-"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "\"Mis-\" means wrong or badly. So \"miscorrect\" means the forecast was wrong."
+        },
+        {
+          "questionNo": 17,
+          "question": "The suffix '-ful' means 'without.'",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "\"-ful\" means \"full of\" or \"having.\" For example, \"careful\" means full of care."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which word uses the suffix '-less' correctly?",
+          "options": [
+            "hopeless",
+            "useless",
+            "careless",
+            "All of the above"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "\"-less\" means without. \"Hopeless\" means without hope, \"playless\" means without play, and \"treeless\" means without trees."
+        },
+        {
+          "questionNo": 19,
+          "question": "Fill in the blank with the correct prefix:<br> To avoid getting lost, always ___read the map before your trip.",
+          "options": [
+            "mis-",
+            "pre-",
+            "re-"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "\"Pre-\" means before. \"Preread\" means to read beforehand or in advance."
+        },
+        {
+          "questionNo": 20,
+          "question": "Fill in the blank with the correct suffix:<br> The child was very care___ with the fragile vase.",
+          "options": [
+            "-ful",
+            "-less",
+            "-ment"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "\"Careful\" means full of care. The child was treating the vase with care."
+        }
+      ]
+    },
+    {
+      "heading": "Articles",
+      "questions": [
+        {
+          "questionNo": 21,
+          "question": "Fill in the blank with the correct article:<br> I saw _____ elephant at the zoo.",
+          "options": [
+            "a",
+            "an",
+            "the"
+          ],
+          "answer": 1,
+          "image": "./assests/images/question/21.png",
+          "explanation": "We use \"an\" before words that start with a vowel sound. \"Elephant\" starts with the vowel sound \"e\"."
+        },
+        {
+          "questionNo": 22,
+          "question": "We use \"the\" when talking about something specific.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "We use \"the\" when we're talking about a specific thing that both the speaker and listener know about."
+        },
+        {
+          "questionNo": 23,
+          "question": "Fill in the blank with the correct article:<br> Can you pass me _____ salt, please?",
+          "options": [
+            "a",
+            "an",
+            "the"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "We use \"the\" here because we're talking about a specific thing (the salt that's on the table)."
+        },
+        {
+          "questionNo": 24,
+          "question": "Fill in the blank with the correct article:<br> My dad is _____ doctor.",
+          "options": [
+            "a",
+            "an",
+            "the"
+          ],
+          "answer": 0,
+          "image": "./assests/images/question/24.png",
+          "explanation": "We use \"a\" before words that start with a consonant sound. \"Doctor\" starts with the consonant sound \"d\"."
+        },
+        {
+          "questionNo": 25,
+          "question": "Which sentence uses articles correctly?",
+          "options": [
+            "I saw the moon and a stars last night.",
+            "I saw the moon and the stars last night."
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "We use \"the\" for both \"moon\" and \"stars\" because we're talking about specific things - the moon (there's only one) and the stars (all the stars in the sky)."
+        }
+      ]
+    },
+    {
+      "heading": "Sentences",
+      "questions": [
+        {
+          "questionNo": 26,
+          "question": "Which type of sentence is this?<br> \"Please pass the salt.\"",
+          "options": [
+            "Declarative",
+            "Interrogative",
+            "Imperative",
+            "Exclamatory"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "This sentence gives a command or request, which makes it an imperative sentence."
+        },
+        {
+          "questionNo": 27,
+          "question": "Fill in the blank:<br> A sentence that asks a question is called a(n) _____ sentence.",
+          "options": [
+            "declarative",
+            "interrogative",
+            "imperative",
+            "exclamatory"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "Interrogative sentences ask questions and usually end with a question mark."
+        },
+        {
+          "questionNo": 28,
+          "question": "\"Wow, that's amazing!\" is an example of a declarative sentence.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "\"Wow, that's amazing!\" is an exclamatory sentence because it expresses strong emotion and ends with an exclamation mark."
+        },
+        {
+          "questionNo": 29,
+          "question": "Which sentence is interrogative?",
+          "options": [
+            "The sky is blue.",
+            "What's your favourite colour?",
+            "Be quiet!",
+            "How beautiful!"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "This sentence asks a question, making it an interrogative sentence."
+        },
+        {
+          "questionNo": 30,
+          "question": "Which type of sentence is this?<br> \"What a wonderful day!\"",
+          "options": [
+            "Declarative",
+            "Interrogative",
+            "Imperative",
+            "Exclamatory"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "This sentence expresses strong emotion and ends with an exclamation mark, making it an exclamatory sentence."
+        }
+      ]
+    },
+    {
+      "heading": "Writing Strategy",
+      "questions": [
+        {
+          "questionNo": 31,
+          "question": "Put these sentences in the correct order for a story:<ol> <li> They played all day.</li> <li>The children went to the park.</li> <li>It was a sunny Saturday.</li> <li>They went home for dinner.</li></ol>",
+          "options": [
+            "3, 2, 1, 4",
+            "2, 1, 3, 4",
+            "4, 3, 2, 1",
+            "1, 2, 3, 4"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "This order makes the most sense for a story. It starts with the setting, then the main action, and ends with the conclusion."
+        },
+        {
+          "questionNo": 32,
+          "question": "In expository writing, you always tell a story.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "Expository writing explains or informs about a topic. Narrative writing tells a story."
+        },
+        {
+          "questionNo": 33,
+          "question": "What is the main idea of this paragraph?<br> \"Cats make great pets. They are clean animals and groom themselves. Cats are also quiet and don't need to be walked. Many cats are happy living indoors.\"",
+          "options": [
+            "Cats are clean animals.",
+            "Cats make great pets.",
+            "Cats are quiet.",
+            "Cats live indoors."
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "This is the main idea because all the other sentences support why cats make great pets."
+        },
+        {
+          "questionNo": 34,
+          "question": "Which sentence doesn't belong in this expository paragraph about penguins?<br> \"Penguins are birds that cannot fly. They live in cold areas, mostly in the Southern Hemisphere. Penguins eat fish and squid. I love watching penguin movies.\"",
+          "options": [
+            "Penguins are birds that cannot fly.",
+            "They live in cold areas, mostly in the Southern Hemisphere.",
+            "Penguins eat fish and squid.",
+            "I love watching penguin movies."
+          ],
+          "answer": 3,
+          "image": "./assests/images/question/34.gif",
+          "explanation": "This sentence is about personal opinion and doesn't fit in an expository paragraph that's giving facts about penguins."
+        },
+        {
+          "questionNo": 35,
+          "question": "What is the main idea of this paragraph?<br> \"The ocean is home to many animals. Whales, the largest animals on Earth, live in the ocean. Fish of all sizes swim in ocean waters. Even tiny plankton float in the seas.\"",
+          "options": [
+            "Whales are the largest animals.",
+            "Fish live in the ocean.",
+            "The ocean is home to many animals.",
+            "Plankton are very small."
+          ],
+          "answer": 2,
+          "image": "./assests/images/question/35.png",
+          "explanation": "This is the main idea because all the other sentences give examples of animals that live in the ocean."
+        }
+      ]
+    },
+    {
+      "heading": "Spellings",
+      "questions": [
+        {
+          "questionNo": 36,
+          "question": "How do you spell the opposite of \"wrong\"?",
+          "options": [
+            "wright",
+            "right",
+            "rite",
+            "write"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "The correct spelling is \"right,\" which is the opposite of \"wrong.\" The other options are homophones but have different meanings."
+        },
+        {
+          "questionNo": 37,
+          "question": "How do you spell the season that comes after summer?",
+          "options": [
+            "autum",
+            "autunm",
+            "autumn",
+            "atumn"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "The correct spelling is \"autumn,\" which is the season that comes after summer."
+        },
+        {
+          "questionNo": 38,
+          "question": "Which is the correct spelling?",
+          "options": [
+            "freind",
+            "friend",
+            "frend",
+            "freend"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "\"Friend\" is spelled correctly, with the \"i\" before the \"e.\""
+        },
+        {
+          "questionNo": 39,
+          "question": "How do you spell the day that comes after Friday?",
+          "options": [
+            "Saterday",
+            "Saturday",
+            "Saturdy",
+            "Saturaday"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "The correct spelling is \"Saturday,\" which is the day that comes after Friday."
+        },
+        {
+          "questionNo": 40,
+          "question": "Which word is spelled correctly?",
+          "options": [
+            "beleive",
+            "beleeve",
+            "believe",
+            "belivee"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "\"Believe\" is spelled correctly with the \"i\" before the \"e\" except after \"c.\""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Questions</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" type="image/x-icon" href="Logo_last.png">
+  <script src="./questions.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.7.0/dist/confetti.browser.min.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300;400;700&display=swap" rel="stylesheet">
+
+</head>
+<style>
+
+#passage {
+  background-color: #4CAF50; /* Green background */
+  border: none; /* Remove default border */
+  color: white; /* White text */
+  padding: 1rem; /* Padding for the button */
+  text-align: center; /* Center the text */
+  text-decoration: none; /* Remove underline */
+  display: inline-block; /* Inline block to adjust size */
+  font-size: 2rem; /* Font size */
+  margin-bottom:1rem; /* Margins */
+  cursor: pointer; /* Pointer cursor on hover */
+  border-radius: 8px; /* Rounded corners */
+  transition: background-color 0.3s ease, transform 0.2s ease; /* Smooth transitions */
+}
+
+/* Hover Effect */
+#passage:hover {
+  background-color: #45a049; /* Darker green on hover */
+  transform: scale(1.05); /* Slightly increase size */
+}
+#questiondiv.full-width {
+  width: 100%;
+}
+
+
+
+#subbtn, #nextbtn {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    transition: box-shadow 0.3s ease;
+}
+
+#subbtn:hover, #nextbtn:hover {
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);
+}
+
+
+#questiondiv {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    /* box-shadow: rgba(197, 253, 196, 0.4) 5px 5px, rgba(181, 250, 179, 0.3) 10px 10px, rgba(178, 245, 195, 0.2) 15px 15px, rgba(190, 252, 173, 0.1) 20px 20px, rgba(176, 253, 182, 0.05) 25px 25px;        */
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    background-color: #CCD5AE;  
+}
+
+#picdiv {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;    
+    /* box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset; */
+    /* padding: 10px; */
+    /* margin-top: 20px; */
+}
+#buttonContainer{
+  *{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    }
+}
+
+/* Modal Styling */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed;
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto; 
+  background-color: rgba(0, 0, 0, 0.4); /* Black background with opacity */
+}
+
+.modal-content {
+  background-color: white;
+  margin: 10% auto;
+  padding: 20px;
+  border-radius: 10px;
+  width: 50%; /* Set the width of the modal */
+  text-align: center;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3); /* Add some shadow */
+}
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+</style>
+<body>
+  <audio id="cheers">
+    <source src="cheers.mp3" type="audio/mpeg">
+  </audio>
+  <!-- <audio id="points" src="Points.mp3"></audio> -->
+  <!-- <audio id="fail" src="fail.mp3"></audio> -->
+  <audio id="submit-sound" src="./assests/sounds/submit.mp3"></audio>
+
+  <header class="header">
+    <img src="./assests/logo/Logo.png" alt="Logo" class="logo">
+    <span><img src="./assests/logo/header.png" alt="Header" class="header-image"></span>
+  </header>
+  <main class="container">
+    <h1 id="heading" class="text-center"></h1>
+    <div id="buttonContainer" class="text-center"></div>
+    <div style="display: flex; justify-content: center;">
+      <button id='passage'>Click here to read the passage</button>
+
+    </div>
+
+    <div class="row maindiv">
+      <!-- <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1 numdiv">
+        <p id="numdiv"></p>
+      </div> -->
+      <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 imgdiv" id="picdiv">
+        <img id="math_ques" src="Math Question.jpg" class="img-responsive">
+
+      </div>
+      <div id="questiondiv" class="col-lg-7 col-md-7 col-sm-7 col-xs-7">
+        <div id="question"></div>
+        <div id="passageText" style="display: none; margin-top: 20px;"></div>
+
+        <br>
+        <div class="menu" id="head">
+          <ul id="options"></ul>
+        </div>
+        <button id="subbtn" class="btn btn-success" onclick="checkAnswer()">Submit Answer</button>
+        <button id="nextbtn" class="btn btn-primary" onclick="newques()" style="display:none">Next</button>
+        <p id="result"></p>
+      </div>
+      
+    </div>
+
+    <div id="passageModal" class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <p>Tony Stark and Bruce Banner were working late in the lab when an urgent alert came. A massive asteroid was hurtling towards Earth, threatening global destruction. Iron Man blasted off to intercept it, but even his most powerful weapons couldn't break it apart. As panic set in, Hulk leapt into action, propelling himself into space with an incredible jump. 
+
+          Together, the heroes combined their strengths. Iron Man used his tech to calculate the perfect angle, while Hulk's raw power delivered a devastating punch. The asteroid shattered, and Earth was saved. As they watched the fragments burn up harmlessly in the atmosphere, Tony and Bruce shared a relieved laugh. 
+          
+          Their unlikely partnership had once again proven unbeatable. 
+          "Not bad for a day's work," Tony quipped. Bruce, transforming back from Hulk, simply smiled. 
+          "I think we've earned some shawarma." 
+          The two friends headed off to celebrate their victory, Earth safe once more thanks to their incredible teamwork.
+          </p>
+      </div>
+    </div>
+  </main>
+
+  <script>
+ 
+  </script>
+</body>
+</html>

@@ -1,0 +1,831 @@
+{
+  "heading": "Select a Topic",
+  "topics": [
+    {
+      "heading": "Reading Passage Comprehension",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "<button id='passage'>Click here to read the passage</button> <br> What did Tony Stark and Bruce Banner do when they received the urgent alert?",
+          "options": [
+            "Sleeping",
+            "Fighting",
+            "Working in the lab",
+            "Having dinner"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "The passage clearly states, 'Tony Stark and Bruce Banner were working late in the lab when an urgent alert came through.'"
+        },
+        {
+          "questionNo": 2,
+          "question": "<button id='passage'>Click here to read the passage</button> <br>What was the threat to Earth?",
+          "options": [
+            "Alien invasion",
+            "Massive asteroid",
+            "Nuclear war",
+            "Climate change"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "The passage mentions 'A massive asteroid was hurtling towards Earth, threatening global destruction.'"
+        },
+        {
+          "questionNo": 3,
+          "question": "<button id='passage'>Click here to read the passage</button> <br>What is the main theme of this short story?",
+          "options": [
+            "Competition between superheroes",
+            "Teamwork and partnership",
+            "The dangers of space exploration",
+            "The superiority of technology over strength"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "The story emphasises how Iron Man and Hulk combined their unique abilities to save Earth, highlighting their 'unlikely partnership' and 'incredible teamwork.'"
+        },
+        {
+          "questionNo": 4,
+          "question": "<button id='passage'>Click here to read the passage</button> <br>Which of the following would be the most suitable title for this short story?",
+          "options": [
+            "The End of the World",
+            "Iron Man vs. Hulk",
+            "A Smashing Success",
+            "Tony's Tech Triumph"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "This title plays on Hulk's strength (smashing) while also indicating the successful outcome of their mission."
+        },
+        {
+          "questionNo": 5,
+          "question": "<button id='passage'>Click here to read the passage</button> <br>Which word is the closest synonym for 'quipped' as used in the sentence: 'Not bad for a day's work,' Tony quipped.",
+          "options": [
+            "Shouted",
+            "Whispered",
+            "Complained",
+            "Joked"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "'Quipped' is used to describe Tony Stark's lighthearted comment. A 'quip' is a witty or clever remark, often made casually or humorously."
+        }
+      ]
+    },
+    {
+      "heading": "Adjective vs Adverb",
+      "questions": [
+        {
+          "questionNo": 6,
+          "question": "Which word in the sentence is an adjective? 'The hungry dog ate quickly.'",
+          "options": [
+            "hungry",
+            "ate",
+            "quickly"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "'Hungry' is an adjective describing the noun 'dog'. Adjectives modify nouns."
+        },
+        {
+          "questionNo": 7,
+          "question": "Choose the correct word to complete the sentence: 'The turtle moved _____ across the sand.'",
+          "options": [
+            "slow",
+            "slowly",
+            "slowest",
+            "slowing"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "'Slowly' is the correct adverb form to describe how the turtle moved. Adverbs often end in '-ly'."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which sentence uses the highlighted word as an adjective?",
+          "options": [
+            "The car <span style='color: black; background-color:yellow';>drives</span> smooth.",
+            "The <span style='color: black; background-color:yellow';>smooth</span> road made for a pleasant trip.",
+            "He <span style='color: black; background-color:yellow';>talks</span> smooth to get what he wants.",
+            "The <span style='color: black; background-color:yellow';>machine</span> runs smooth."
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "'Smooth' describes the noun 'road'. Adjectives modify nouns."
+        },
+        {
+          "questionNo": 9,
+          "question": "Identify the adverb in this sentence: 'The tall giraffe reached the leaves easily.'",
+          "options": [
+            "giraffe",
+            "tall",
+            "reached",
+            "easily"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "'Easily' is an adverb describing how the giraffe reached the leaves."
+        },
+        {
+          "questionNo": 10,
+          "question": "In the sentence 'The happy children played noisily in the park,' choose the correct pair.",
+          "options": [
+            "happy: adverb",
+            "children: adjective",
+            "played: adjective",
+            "noisily: adverb"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "'Noisily' is an adverb describing how the children played. It modifies the verb 'played'. 'Happy' is an adjective describing 'children'."
+        }
+      ]
+    },
+    {
+      "heading": "Subject-verb Agreement",
+      "questions": [
+        {
+          "questionNo": 11,
+          "question": "Which sentence shows correct subject-verb agreement?",
+          "options": [
+            "The dogs barks loudly.",
+            "The dogs bark loudly.",
+            "The dogs is barking loudly.",
+            "The dogs am barking loudly."
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "The subject 'dogs' is plural, so it requires the plural verb 'bark'."
+        },
+        {
+          "questionNo": 12,
+          "question": "Choose the correct verb: 'The news ____ surprising to everyone.'",
+          "options": [
+            "were",
+            "are",
+            "was",
+            "be"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "'News' is a singular noun, even though it ends in -s. It takes a singular verb."
+        },
+        {
+          "questionNo": 13,
+          "question": "Which sentence is correct?",
+          "options": [
+            "There is many books on the shelf.",
+            "There are many books on the shelf.",
+            "There be many books on the shelf.",
+            "There was many books on the shelf."
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "'Books' is plural, so the plural verb 'are' is used."
+        },
+        {
+          "questionNo": 14,
+          "question": "Neither the teacher nor the students ____ the answer.",
+          "options": [
+            "knows",
+            "know"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "'Know' is correct because 'students' is the closest subject to the verb, and it is plural."
+        },
+        {
+          "questionNo": 15,
+          "question": "Select the correct sentence:",
+          "options": [
+            "Each of the students have a pencil.",
+            "Each of the students has a pencil.",
+            "Each of the students are having a pencil.",
+            "Each of the students were having a pencil."
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "'Each' is always singular, so it takes the singular verb 'has'."
+        }
+      ]
+    },
+    {
+      "heading": "Idioms and Word Meanings",
+      "questions": [
+        {
+          "questionNo": 16,
+          "question": "In the context of the idiom \"pay your dues,\" what does one typically have to do?",
+          "options": [
+            "Make monetary payments",
+            "Endure hardships while gaining experience",
+            "Apologize for mistakes",
+            "Join a labour union"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "The idiom \"pay your dues\" means to earn a position or advantage through hard work and experience, often involving some hardship or sacrifice."
+        },
+        {
+          "questionNo": 17,
+          "question": "What does it mean to look at someone \"scornfully\"?",
+          "options": [
+            "With admiration",
+            "With confusion",
+            "With contempt or disrespect",
+            "With fear"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "\"Scornfully\" is defined as \"in a way that shows or expresses contempt or disrespect; with disdain.\""
+        },
+        {
+          "questionNo": 18,
+          "question": "When someone \"muses\" about something, what are they doing?",
+          "options": [
+            "Singing about it",
+            "Thinking carefully about it for a long time",
+            "Quickly forgetting about it",
+            "Arguing about it"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "To \"muse\" means to think about something carefully and for a long time; to ponder or reflect."
+        },
+        {
+          "questionNo": 19,
+          "question": "What does the idiom \"pay through the nose\" mean?",
+          "options": [
+            "To pay with cash",
+            "To pay in small instalments",
+            "To pay an excessively high price",
+            "To pay with a credit card"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "\"Pay through the nose\" means \"to pay an excessively high price for something; to be overcharged.\""
+        },
+        {
+          "questionNo": 20,
+          "question": "What does the proverb \"Easy come, easy go\" primarily suggest about things gained easily?",
+          "options": [
+            "They are more valuable",
+            "They are often lost just as easily",
+            "They require hard work to maintain",
+            "They bring long-lasting happiness"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "The proverb \"Easy come, easy go\" means that something gained easily is also lost easily."
+        }
+      ]
+    },
+    {
+      "heading": "Prepositions",
+      "questions": [
+        {
+          "questionNo": 21,
+          "question": "Which preposition correctly completes this sentence? \"The meeting is scheduled ____ 3 PM on Friday.\"",
+          "options": [
+            "at",
+            "in",
+            "on",
+            "by"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "\"At\" is the correct preposition of time for specific clock times."
+        },
+        {
+          "questionNo": 22,
+          "question": "Which preposition of direction fits this sentence? \"The hikers walked ____ the mountain.\"",
+          "options": [
+            "at",
+            "in",
+            "up",
+            "with"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "\"Up\" is a preposition of direction indicating upward movement."
+        },
+        {
+          "questionNo": 23,
+          "question": "Select the appropriate preposition of manner: \"She completed the task ____ great care.\"",
+          "options": [
+            "by",
+            "with",
+            "in",
+            "on"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "\"With\" is often used as a preposition of manner to describe how an action is performed."
+        },
+        {
+          "questionNo": 24,
+          "question": "Which preposition correctly completes this sentence? \"We're meeting ____ noon for lunch.\"",
+          "options": [
+            "in",
+            "on",
+            "at",
+            "by"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "\"At\" is the correct preposition of time for noon, midnight, and specific times."
+        },
+        {
+          "questionNo": 25,
+          "question": "Which preposition of direction is correct in this sentence? \"The train is travelling ____ London.\"",
+          "options": [
+            "into",
+            "at",
+            "with",
+            "for"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "\"For\" is used as a preposition of direction when indicating a destination, especially with modes of transportation."
+        }
+      ]
+    },
+    {
+      "heading": "Phrases and Clauses",
+      "questions": [
+        {
+          "questionNo": 26,
+          "question": "True or False: A dependent clause gives complete information by itself.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "A dependent clause does not give complete information and relies on an independent clause to make sense."
+        },
+        {
+          "questionNo": 27,
+          "question": "Which one of these can stand alone as a sentence?",
+          "options": [
+            "Although it’s cold outside",
+            "If I finish early",
+            "He plays the guitar",
+            "While I was running"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "\"He plays the guitar\" is an independent clause and can stand alone as a complete sentence."
+        },
+        {
+          "questionNo": 28,
+          "question": "\"Because it was late\" is an independent clause.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "\"Because it was late\" is a dependent clause because it cannot stand alone as a complete sentence."
+        },
+        {
+          "questionNo": 29,
+          "question": "Which of the following is an example of a noun phrase?",
+          "options": [
+            "Jumping high",
+            "The tall, green tree",
+            "After school",
+            "Before lunch"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "A noun phrase includes a noun and its modifiers. \"The tall, green tree\" is a noun phrase because it describes a noun (\"tree\") with adjectives (\"tall\" and \"green\")."
+        },
+        {
+          "questionNo": 30,
+          "question": "Which of these is not a phrase?",
+          "options": [
+            "In the garden",
+            "After the game",
+            "They went home",
+            "Under the table"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "\"They went home\" is not a phrase; it is a complete sentence because it has both a subject (\"They\") and a verb (\"went\")."
+        }
+      ]
+    },
+    {
+      "heading": "Conjunctions",
+      "questions": [
+        {
+          "questionNo": 31,
+          "question": "Which of the following is a coordinating conjunction?",
+          "options": [
+            "Although",
+            "Because",
+            "But",
+            "Unless"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "\"But\" is one of the seven coordinating conjunctions (FANBOYS: For, And, Nor, But, Or, Yet, So)."
+        },
+        {
+          "questionNo": 32,
+          "question": "In the sentence \"I will go to the party if you come with me,\" what type of conjunction is \"if\"?",
+          "options": [
+            "Coordinating conjunction",
+            "Subordinating conjunction",
+            "Correlative conjunction",
+            "None of the above"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "\"If\" is a subordinating conjunction. It introduces a dependent clause and connects it to an independent clause."
+        },
+        {
+          "questionNo": 33,
+          "question": "Which pair of words form a correlative conjunction?",
+          "options": [
+            "And...but",
+            "Either...or",
+            "Because...so",
+            "When...then"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "\"Either...or\" is a correlative conjunction pair. Correlative conjunctions are pairs of conjunctions that work together to connect words or phrases in a sentence."
+        },
+        {
+          "questionNo": 34,
+          "question": "What type of conjunction is \"yet\" in the sentence \"The food was expensive, yet delicious\"?",
+          "options": [
+            "Subordinating conjunction",
+            "Correlative conjunction",
+            "Coordinating conjunction"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "\"Yet\" is one of the seven coordinating conjunctions (FANBOYS). It's used to connect contrasting ideas of equal grammatical importance."
+        },
+        {
+          "questionNo": 35,
+          "question": "Which conjunction would best complete this sentence: \"I wanted to go to the party, ____ it was raining\"?",
+          "options": [
+            "and",
+            "but",
+            "or",
+            "so"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "\"But\" is the most appropriate coordinating conjunction here as it expresses a contrast between wanting to go to the party and the fact that it was raining."
+        }
+      ]
+    },
+    {
+      "heading": "Articles",
+      "questions": [
+        {
+          "questionNo": 36,
+          "question": "Which article would you use in this sentence: \"I saw ____ owl in the tree\"?",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article needed"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "\"An\" is the correct indefinite article to use before words starting with a vowel sound. \"Owl\" begins with a vowel sound, so \"an\" is appropriate."
+        },
+        {
+          "questionNo": 37,
+          "question": "In the sentence \"The Nile is ____ longest river in Africa,\" which article is correct?",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article needed"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "\"The\" is used here because we're referring to a specific, unique item (the longest river in Africa)."
+        },
+        {
+          "questionNo": 38,
+          "question": "Which sentence correctly uses articles?",
+          "options": [
+            "A hour passed quickly.",
+            "An university is nearby.",
+            "He is the best player on team.",
+            "She bought a new car."
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "This sentence correctly uses the indefinite article \"a\" before \"new car\". The other sentences have errors: \"an\" should be used before \"hour\", \"a\" before \"university\", and \"the\" is missing before \"team\"."
+        },
+        {
+          "questionNo": 39,
+          "question": "When referring to something for the first time, which article is typically used?",
+          "options": [
+            "The",
+            "A or An",
+            "No article",
+            "Any article"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "Indefinite articles (a/an) are typically used when mentioning something for the first time, as the item is not yet specific to the listener."
+        },
+        {
+          "questionNo": 40,
+          "question": "In which sentence is the definite article \"the\" unnecessary?",
+          "options": [
+            "The Earth orbits the Sun.",
+            "The honesty is the best policy.",
+            "The Eiffel Tower is in Paris.",
+            "The Pacific Ocean is the largest ocean."
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "Abstract nouns like \"honesty\" generally don't require an article. The correct phrase is \"Honesty is the best policy.\""
+        }
+      ]
+    },
+    {
+      "heading": "Prefixes",
+      "questions": [
+        {
+          "questionNo": 41,
+          "question": "Which prefix in \"prehistoric\" means \"before\"?",
+          "options": [
+            "pre-",
+            "his-",
+            "tor-",
+            "ic-"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "The prefix \"pre-\" means \"before\" or \"prior to\". In \"prehistoric\", it refers to the time before written history."
+        },
+        {
+          "questionNo": 42,
+          "question": "In the word \"rewrite\", what does the prefix \"re-\" indicate?",
+          "options": [
+            "Against",
+            "Before",
+            "Again",
+            "Not"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "The prefix \"re-\" typically means \"again\" or \"back\". In \"rewrite\", it means to write again."
+        },
+        {
+          "questionNo": 43,
+          "question": "What does the prefix \"dis-\" mean in the word \"disagree\"?",
+          "options": [
+            "Two",
+            "Not or opposite of",
+            "Below",
+            "Between"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "The prefix \"dis-\" often means \"not\" or \"opposite of\". In \"disagree\", it indicates the opposite of agree."
+        },
+        {
+          "questionNo": 44,
+          "question": "In the word \"ex-president\", what does \"ex-\" indicate?",
+          "options": [
+            "Current",
+            "Future",
+            "Former",
+            "Always"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "The prefix \"ex-\" when used with titles or positions means \"former\" or \"previously\"."
+        },
+        {
+          "questionNo": 45,
+          "question": "Which prefix would you add to \"possible\" to create its opposite?",
+          "options": [
+            "re-",
+            "pre-",
+            "un-",
+            "im-"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "While \"un-\" is a common prefix for creating opposites, with \"possible\", we use \"im-\" to form \"impossible\"."
+        }
+      ]
+    },
+    {
+      "heading": "Suffixes",
+      "questions": [
+        {
+          "questionNo": 46,
+          "question": "Which suffix would you add to \"care\" to create a word meaning \"without care\"?",
+          "options": [
+            "-ful",
+            "-less",
+            "-able",
+            "-ible"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "The suffix \"-less\" means \"without\" or \"lacking.\" Adding it to \"care\" creates \"careless,\" meaning without care."
+        },
+        {
+          "questionNo": 47,
+          "question": "Which word is formed correctly using the suffix \"-able\"?",
+          "options": [
+            "Readable",
+            "Sleepable",
+            "Goable",
+            "Eatabe"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "\"Read\" correctly takes this suffix, while the others are either not standard usage or incorrectly spelt."
+        },
+        {
+          "questionNo": 48,
+          "question": "Fill in the blank: If something can be divided, it is ________. ",
+          "options": [
+            "Dividible",
+            "Divisible"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "\"Divisible\" uses the suffix \"-ible\" to mean \"capable of being divided.\""
+        },
+        {
+          "questionNo": 49,
+          "question": "Which word uses the suffix \"-ful\" correctly?",
+          "options": [
+            "Playful",
+            "Sleepful",
+            "Runful",
+            "Eatful"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "\"Playful\" is a standard word using \"-ful\" correctly to mean full of play. The other options are not standard English words."
+        },
+        {
+          "questionNo": 50,
+          "question": "Which word correctly uses the suffix \"-ible\"?",
+          "options": [
+            "Collectible",
+            "Drinkible",
+            "Breakible",
+            "Washible"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "\"Collectible\" is the correct form. The other options should use \"-able\" instead: drinkable, breakable, and washable."
+        }
+      ]
+    },
+    {
+      "heading": "Contractions",
+      "questions": [
+        {
+          "questionNo": 51,
+          "question": "Which contraction is correct for \"she is\"?",
+          "options": [
+            "she's",
+            "shes'",
+            "she'is",
+            "s'he"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "\"She's\" is the correct contraction for \"she is.\" The apostrophe replaces the \"i\" in \"is.\""
+        },
+        {
+          "questionNo": 52,
+          "question": "What is the full form of \"won't\"?",
+          "options": [
+            "will not",
+            "would not",
+            "were not",
+            "was not"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "\"Won't\" is a contraction of \"will not.\""
+        },
+        {
+          "questionNo": 53,
+          "question": "Which contraction correctly combines \"they\" and \"have\"?",
+          "options": [
+            "they've",
+            "they'v",
+            "theyve",
+            "the've"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "\"They've\" is the correct contraction for \"they have.\" The apostrophe replaces the \"ha\" in \"have.\""
+        },
+        {
+          "questionNo": 54,
+          "question": "Which contraction is formed correctly?",
+          "options": [
+            "would'nt",
+            "wouldnt'",
+            "wouldn't",
+            "would'nt"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "\"Wouldn't\" is the correct contraction for \"would not.\" The apostrophe replaces the \"o\" in \"not.\""
+        },
+        {
+          "questionNo": 55,
+          "question": "\"I'm\" is the only contraction for a subject pronoun + \"am.\"",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "\"I'm\" is the only standard contraction for a subject pronoun + \"am\" in English."
+        }
+      ]
+    },
+    {
+      "heading": "Punctuation",
+      "questions": [
+        {
+          "questionNo": 56,
+          "question": "In the sentence \"Wow that's amazing\", which punctuation mark is missing?",
+          "options": [
+            "Comma",
+            "Full stop",
+            "Exclamation mark",
+            "Question mark"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "An exclamation mark should be used at the end of this sentence to express strong feeling or emphasis. The correct sentence would be \"Wow, that's amazing!\""
+        },
+        {
+          "questionNo": 57,
+          "question": "Which punctuation mark should end the sentence \"How old are you\"?",
+          "options": [
+            "Full stop",
+            "Comma",
+            "Exclamation mark",
+            "Question mark"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "A question mark is used at the end of a direct question. The correct sentence would be \"How old are you?\""
+        },
+        {
+          "questionNo": 58,
+          "question": "In the sentence \"Every evening Rachel and Monica take a walk in the park.\", where should a comma be placed?",
+          "options": [
+            "After \"Every\"",
+            "After \"evening\"",
+            "After \"Monica\"",
+            "No comma is needed"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "A comma after \"evening\" would separate the introductory phrase from the main clause, making it easier to read."
+        },
+        {
+          "questionNo": 59,
+          "question": "Which sentence uses an exclamation mark correctly?",
+          "options": [
+            "I can't believe it?",
+            "What a surprise!",
+            "He asked where I was going!",
+            "The movie starts at 7:00!"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "An exclamation mark is used to express strong emotion or emphasis. It's most appropriate in the sentence \"What a surprise!\" which expresses excitement or astonishment."
+        },
+        {
+          "questionNo": 60,
+          "question": "After the long walk _______ we were all exhausted.",
+          "options": [
+            "!",
+            ","
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "A comma is used after an introductory phrase."
+        }
+      ]
+    }
+  ]
+}
